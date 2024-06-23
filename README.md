@@ -122,7 +122,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 Other skills like **Spark,
 AWS, Power BI, Pandas and Excel** show varying degrees of demand.
 
-![Top_paying_skill](assets\2.1_top_paying_skills_ind.png)
+![Top_paying_skill](assets\1_top_paying_roles.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; Used python to visualize the data output*
 
 ```py
